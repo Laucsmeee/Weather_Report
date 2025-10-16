@@ -98,3 +98,9 @@ API_KEY=your_openweather_api_key
 - Побудова графіка зміни температури за тиждень.
 
 - Використання зібраних даних для навчання AI-моделі прогнозування погоди.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
