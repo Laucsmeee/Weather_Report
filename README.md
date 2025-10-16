@@ -39,12 +39,13 @@ OpenWeather API
 ---
 
 
-## ⚙️ Встановлення
+##  Встановлення
 
 1. Клонуйте проєкт:
-   ```bash
+ ```bash
    git clone https://github.com/yourusername/weather-logger.git
    cd weather-logger
+```
 2.Створіть віртуальне середовище (рекомендовано):
  ```bash
     python -m venv .venv
