@@ -61,7 +61,9 @@ pip install -r requirements.txt
 API_KEY=your_openweather_api_key
 ```
 5.Додайте .env у .gitignore, щоб не викладати ключ у GitHub:
+
 .env
+
 ---
 
 
